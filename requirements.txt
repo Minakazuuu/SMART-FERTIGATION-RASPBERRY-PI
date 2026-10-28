@@ -1,0 +1,5 @@
+Flask>=3.0,<4
+mysql-connector-python>=8.3,<10
+python-dotenv>=1.0,<2
+gpiozero>=2.0,<3
+adafruit-circuitpython-ads1x15>=3.4,<4
